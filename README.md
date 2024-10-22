@@ -71,6 +71,10 @@ plt.show()
 ```
 
 ## Output:
+
+
+
+
 ### Head:
 ![Screenshot 2024-08-28 103458](https://github.com/user-attachments/assets/24dfdd22-fcad-43a7-a492-1dd6871c2229)
 
@@ -94,6 +98,11 @@ plt.show()
 ### Values of MSE, MAE and RMSE :
 
 ![Screenshot 2024-08-28 103530](https://github.com/user-attachments/assets/934c291f-a5d1-491b-b794-2c44fe18e93f)
+
+
+
+
+
 
 
 ### Training set graph::
