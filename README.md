@@ -89,7 +89,6 @@ plt.show()
 
 
 
-
 ### Value of Y:
 
 ![Screenshot 2024-08-28 103520](https://github.com/user-attachments/assets/bb03584d-408d-4cc9-821a-e1a7db91fdd7)
@@ -102,10 +101,10 @@ plt.show()
 
 
 
+### Training set graph:
 
 
 
-### Training set graph::
 
 ![Screenshot 2024-08-30 175001](https://github.com/user-attachments/assets/7a9ccc5b-15c6-4d92-9d16-8e2532fc89f1)
 
